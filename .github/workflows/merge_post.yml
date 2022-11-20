@@ -14,4 +14,5 @@ jobs:
           myToken: ${{ secrets.GITHUB_TOKEN }}
           users: |
             15383766
+            118645709
           
